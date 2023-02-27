@@ -1,0 +1,1 @@
+function showme(){document.getElementById('met').innerHTML ='hello';}
